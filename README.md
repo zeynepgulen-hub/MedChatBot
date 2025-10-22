@@ -53,13 +53,13 @@ Proje iki ana aşamada çalışır:
    - Model, yalnızca bu context'ten yararlanarak kısa ve açıklayıcı bir yanıt üretir.
 
 Kullanıcı Sorusu
-↓
+|
 Metin Vektörleştirme (TF-IDF veya Embedding)
-↓
+|
 Benzer Metinleri Getir (Top-K)
-↓
+|
 Context → LLM veya Direkt Gösterim
-↓
+|
 Yanıt + Kaynak Önizleme
 
 Bu yapı sayesinde sistem hem **bilgiye dayalı (retrieval)** hem de **doğal dil üretimi (generation)** adımlarını birleştirir.
