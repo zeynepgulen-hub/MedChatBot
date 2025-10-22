@@ -120,6 +120,7 @@ RAG mimarisi ile bilgiye dayalı, güvenilir cevaplar
 10-How can dehydration be prevented?
 
 Linkler
-https://zeynepgulen-medchatbot.hf.space/?__theme=system&deep_link=V8Oo2YvCEYA
+https://www.kaggle.com/code/zeynepgulen/medchatbot
 https://huggingface.co/spaces/zeynepgulen/medchatbot
+https://zeynepgulen-medchatbot.hf.space/?__theme=system&deep_link=V8Oo2YvCEYA
 
