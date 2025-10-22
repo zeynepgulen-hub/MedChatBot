@@ -9,6 +9,9 @@
 Bu proje, **RAG (Retrieval-Augmented Generation)** tabanlı bir chatbot geliştirerek tıbbi sorulara hızlı, anlamlı ve kaynaklı cevaplar sunmayı amaçlar.  
 Kullanıcının yazdığı medikal sorular, veri setindeki benzer metinlerle eşleştirilir ve özet bir cevap oluşturulur.  
 Mini sürüm, **TF-IDF** yaklaşımıyla, model indirmeden saniyeler içinde yanıt üretir.
+<img width="912" height="179" alt="Ekran görüntüsü 2025-10-22 232414" src="https://github.com/user-attachments/assets/773b0203-0d57-419d-a9f6-c8b61357b7b9" />
+<img width="911" height="161" alt="Ekran görüntüsü 2025-10-22 232310" src="https://github.com/user-attachments/assets/82a615be-b3b6-4f29-93e2-3cbc03f03c9c" />
+
 
 ---
 
