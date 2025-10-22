@@ -118,3 +118,8 @@ RAG mimarisi ile bilgiye dayalı, güvenilir cevaplar
 9-What are treatments for migraine headaches?
 
 10-How can dehydration be prevented?
+
+Linkler
+https://zeynepgulen-medchatbot.hf.space/?__theme=system&deep_link=V8Oo2YvCEYA
+https://huggingface.co/spaces/zeynepgulen/medchatbot
+
