@@ -70,7 +70,7 @@ Bu yapı sayesinde sistem hem **bilgiye dayalı (retrieval)** hem de **doğal di
 python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-```bash
+```
 
 6️⃣ Web Arayüzü & Canlı Demo
 
