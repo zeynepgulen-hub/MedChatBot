@@ -4,7 +4,6 @@
 > Burada üretilen tıbbi içerikler **bilgilendirme** amaçlıdır, **teşhis veya tedavi tavsiyesi** yerine geçmez.  
 > Herhangi bir sağlık sorununuz için mutlaka profesyonel bir sağlık uzmanına danışınız.
 
-# 🩺 MedChatBot — Akbank GenAI Bootcamp Projesi
 
 ## 1️⃣ Projenin Amacı
 Bu proje, **RAG (Retrieval-Augmented Generation)** tabanlı bir chatbot geliştirerek tıbbi sorulara hızlı, anlamlı ve kaynaklı cevaplar sunmayı amaçlar.  
